@@ -58,6 +58,13 @@ npm run build:preview    # served under /top (sets NEXT_PUBLIC_BASE_PATH)
 `basePath` only rewrites `next/link` and `next/image`, so every hand-rolled
 `<img src>` goes through `asset()` in `lib/asset.ts`. Use it for any new asset.
 
+## Before going live
+
+`public/robots.txt` blocks all crawlers. It is there so the preview cannot be
+indexed as a duplicate of the live Wix site on `topmarketingsolutions.in`.
+**Delete it when this build becomes the canonical site**, or the real site stays
+out of search results.
+
 ## Still open
 
 - Contact has no form and no phone number or email — the deck lists neither. It currently points at Instagram. Wire in whatever the real enquiry route should be.

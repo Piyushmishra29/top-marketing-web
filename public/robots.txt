@@ -1,0 +1,5 @@
+# Preview deployment - not the canonical site.
+# Delete this file when the build goes live on topmarketingsolutions.in,
+# or the real site will stay out of search results.
+User-agent: *
+Disallow: /
