@@ -1,0 +1,47 @@
+{
+ "content-creation": {
+  "file": "/art/content-creation.jpg",
+  "w": 1600,
+  "h": 509
+ },
+ "social-media": {
+  "file": "/art/social-media.jpg",
+  "w": 1075,
+  "h": 1020
+ },
+ "graphic-design": {
+  "file": "/art/graphic-design.jpg",
+  "w": 800,
+  "h": 1080
+ },
+ "web-design": {
+  "file": "/art/web-design.jpg",
+  "w": 1000,
+  "h": 1040
+ },
+ "cgi": {
+  "file": "/art/cgi.jpg",
+  "w": 860,
+  "h": 980
+ },
+ "offline-marketing": {
+  "file": "/art/offline-marketing.jpg",
+  "w": 1150,
+  "h": 1020
+ },
+ "influencer": {
+  "file": "/art/influencer.jpg",
+  "w": 1120,
+  "h": 940
+ },
+ "performance": {
+  "file": "/art/performance.jpg",
+  "w": 1020,
+  "h": 980
+ },
+ "eventing-pr": {
+  "file": "/art/eventing-pr.jpg",
+  "w": 1560,
+  "h": 650
+ }
+}

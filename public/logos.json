@@ -1,0 +1,326 @@
+[
+ {
+  "name": "porsche",
+  "file": "/logos/porsche.png",
+  "w": 212,
+  "h": 23
+ },
+ {
+  "name": "meil-foundation",
+  "file": "/logos/meil-foundation.png",
+  "w": 121,
+  "h": 51
+ },
+ {
+  "name": "meta",
+  "file": "/logos/meta.png",
+  "w": 78,
+  "h": 83
+ },
+ {
+  "name": "sudha-reddy-foundation",
+  "file": "/logos/sudha-reddy-foundation.png",
+  "w": 108,
+  "h": 103
+ },
+ {
+  "name": "ferrari",
+  "file": "/logos/ferrari.png",
+  "w": 79,
+  "h": 101
+ },
+ {
+  "name": "acetech",
+  "file": "/logos/acetech.png",
+  "w": 156,
+  "h": 93
+ },
+ {
+  "name": "the-charcoal-project",
+  "file": "/logos/the-charcoal-project.png",
+  "w": 82,
+  "h": 121
+ },
+ {
+  "name": "the-met",
+  "file": "/logos/the-met.png",
+  "w": 81,
+  "h": 81
+ },
+ {
+  "name": "pink-power-run",
+  "file": "/logos/pink-power-run.png",
+  "w": 141,
+  "h": 62
+ },
+ {
+  "name": "iiid-showcase",
+  "file": "/logos/iiid-showcase.png",
+  "w": 203,
+  "h": 102
+ },
+ {
+  "name": "bbt",
+  "file": "/logos/bbt.png",
+  "w": 123,
+  "h": 118
+ },
+ {
+  "name": "lakeshore",
+  "file": "/logos/lakeshore.png",
+  "w": 176,
+  "h": 60
+ },
+ {
+  "name": "wedding-asia",
+  "file": "/logos/wedding-asia.png",
+  "w": 183,
+  "h": 28
+ },
+ {
+  "name": "paytm-insider",
+  "file": "/logos/paytm-insider.png",
+  "w": 161,
+  "h": 47
+ },
+ {
+  "name": "kpc",
+  "file": "/logos/kpc.png",
+  "w": 136,
+  "h": 53
+ },
+ {
+  "name": "tuborg",
+  "file": "/logos/tuborg.png",
+  "w": 128,
+  "h": 65
+ },
+ {
+  "name": "boosterxp",
+  "file": "/logos/boosterxp.png",
+  "w": 156,
+  "h": 60
+ },
+ {
+  "name": "toma-terra",
+  "file": "/logos/toma-terra.png",
+  "w": 140,
+  "h": 97
+ },
+ {
+  "name": "prism-outdoors",
+  "file": "/logos/prism-outdoors.png",
+  "w": 179,
+  "h": 74
+ },
+ {
+  "name": "air-live",
+  "file": "/logos/air-live.png",
+  "w": 101,
+  "h": 86
+ },
+ {
+  "name": "the-game-room",
+  "file": "/logos/the-game-room.png",
+  "w": 107,
+  "h": 77
+ },
+ {
+  "name": "stri-shakti-awards",
+  "file": "/logos/stri-shakti-awards.png",
+  "w": 135,
+  "h": 112
+ },
+ {
+  "name": "casa-decor",
+  "file": "/logos/casa-decor.png",
+  "w": 172,
+  "h": 45
+ },
+ {
+  "name": "pink-pagdi",
+  "file": "/logos/pink-pagdi.png",
+  "w": 178,
+  "h": 99
+ },
+ {
+  "name": "namishrree",
+  "file": "/logos/namishrree.png",
+  "w": 118,
+  "h": 95
+ },
+ {
+  "name": "ala-liberty",
+  "file": "/logos/ala-liberty.png",
+  "w": 166,
+  "h": 51
+ },
+ {
+  "name": "sixx-gallery",
+  "file": "/logos/sixx-gallery.png",
+  "w": 103,
+  "h": 66
+ },
+ {
+  "name": "mangala-gowri",
+  "file": "/logos/mangala-gowri.png",
+  "w": 115,
+  "h": 119
+ },
+ {
+  "name": "ministry-of-kids",
+  "file": "/logos/ministry-of-kids.png",
+  "w": 135,
+  "h": 66
+ },
+ {
+  "name": "empire-home",
+  "file": "/logos/empire-home.png",
+  "w": 74,
+  "h": 107
+ },
+ {
+  "name": "team-innovation",
+  "file": "/logos/team-innovation.png",
+  "w": 139,
+  "h": 108
+ },
+ {
+  "name": "surface-sefar",
+  "file": "/logos/surface-sefar.png",
+  "w": 174,
+  "h": 47
+ },
+ {
+  "name": "sterlina-design",
+  "file": "/logos/sterlina-design.png",
+  "w": 158,
+  "h": 94
+ },
+ {
+  "name": "the-blanche-living",
+  "file": "/logos/the-blanche-living.png",
+  "w": 105,
+  "h": 79
+ },
+ {
+  "name": "marigold-weddings",
+  "file": "/logos/marigold-weddings.png",
+  "w": 67,
+  "h": 97
+ },
+ {
+  "name": "the-grand-ballroom",
+  "file": "/logos/the-grand-ballroom.png",
+  "w": 93,
+  "h": 72
+ },
+ {
+  "name": "experium",
+  "file": "/logos/experium.png",
+  "w": 133,
+  "h": 69
+ },
+ {
+  "name": "czar-homes",
+  "file": "/logos/czar-homes.png",
+  "w": 163,
+  "h": 69
+ },
+ {
+  "name": "rang",
+  "file": "/logos/rang.png",
+  "w": 85,
+  "h": 105
+ },
+ {
+  "name": "s-casa",
+  "file": "/logos/s-casa.png",
+  "w": 158,
+  "h": 54
+ },
+ {
+  "name": "la-muse",
+  "file": "/logos/la-muse.png",
+  "w": 73,
+  "h": 117
+ },
+ {
+  "name": "ananda-convention",
+  "file": "/logos/ananda-convention.png",
+  "w": 188,
+  "h": 60
+ },
+ {
+  "name": "yours-eventfully",
+  "file": "/logos/yours-eventfully.png",
+  "w": 99,
+  "h": 91
+ },
+ {
+  "name": "shubh-kalash",
+  "file": "/logos/shubh-kalash.png",
+  "w": 78,
+  "h": 105
+ },
+ {
+  "name": "aple-lites",
+  "file": "/logos/aple-lites.png",
+  "w": 111,
+  "h": 89
+ },
+ {
+  "name": "event-tower",
+  "file": "/logos/event-tower.png",
+  "w": 123,
+  "h": 84
+ },
+ {
+  "name": "flash",
+  "file": "/logos/flash.png",
+  "w": 131,
+  "h": 127
+ },
+ {
+  "name": "juice",
+  "file": "/logos/juice.png",
+  "w": 172,
+  "h": 53
+ },
+ {
+  "name": "seating-world",
+  "file": "/logos/seating-world.png",
+  "w": 198,
+  "h": 36
+ },
+ {
+  "name": "stone-waters",
+  "file": "/logos/stone-waters.png",
+  "w": 97,
+  "h": 98
+ },
+ {
+  "name": "tap-india",
+  "file": "/logos/tap-india.png",
+  "w": 109,
+  "h": 68
+ },
+ {
+  "name": "kadari-art-gallery",
+  "file": "/logos/kadari-art-gallery.png",
+  "w": 148,
+  "h": 74
+ },
+ {
+  "name": "perceptice",
+  "file": "/logos/perceptice.png",
+  "w": 137,
+  "h": 39
+ },
+ {
+  "name": "f-salon",
+  "file": "/logos/f-salon.png",
+  "w": 140,
+  "h": 82
+ }
+]
